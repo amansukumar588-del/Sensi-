@@ -1,0 +1,6 @@
+{
+  "name": "Sensi App",
+  "description": "Pro sensitivity and aim settings companion with drag presets, DPI optimizer, and aim sandbox for mobile gamers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
